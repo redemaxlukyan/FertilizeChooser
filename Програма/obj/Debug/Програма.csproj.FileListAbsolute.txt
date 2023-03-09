@@ -1,0 +1,8 @@
+C:\Users\XE\source\repos\Програма підбору добрив для садово-городніх культур\Програма\bin\Debug\Програма.exe.config
+C:\Users\XE\source\repos\Програма підбору добрив для садово-городніх культур\Програма\bin\Debug\Програма.exe
+C:\Users\XE\source\repos\Програма підбору добрив для садово-городніх культур\Програма\bin\Debug\Програма.pdb
+C:\Users\XE\source\repos\Програма підбору добрив для садово-городніх культур\Програма\obj\Debug\Програма.csproj.AssemblyReference.cache
+C:\Users\XE\source\repos\Програма підбору добрив для садово-городніх культур\Програма\obj\Debug\Програма.csproj.SuggestedBindingRedirects.cache
+C:\Users\XE\source\repos\Програма підбору добрив для садово-городніх культур\Програма\obj\Debug\Програма.csproj.CoreCompileInputs.cache
+C:\Users\XE\source\repos\Програма підбору добрив для садово-городніх культур\Програма\obj\Debug\Програма.exe
+C:\Users\XE\source\repos\Програма підбору добрив для садово-городніх культур\Програма\obj\Debug\Програма.pdb
